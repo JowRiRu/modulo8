@@ -1,0 +1,33 @@
+div#general div#lista{
+    margin-top: 20px;
+    float: left;
+    position: static;
+    width: 30%;
+    height: 450px;
+    background-color: white;
+    border: 1px solid black;
+    list-style: none;
+    text-align: center;    
+}
+
+div#general div#texto{
+    margin-top: 20px;
+    margin-left: 30%;
+    position: absolute;
+    width: 70%;
+    height: 450px;
+    font-size: 24px;
+    background-color: white;
+    border: 1px solid black;
+    text-align: center;
+}
+
+div#central div#cen{
+    margin-top: 1000%;
+    margin-left: 50%;
+    width: 20%;
+    height: 30px;
+    background-color: white;
+    border: 1px solid black;
+    text-align: center;    
+}

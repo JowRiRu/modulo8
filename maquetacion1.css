@@ -1,0 +1,30 @@
+body{
+    font-size: 24px;
+}
+div#lista{
+    margin-top: 10%;
+    float: left;
+    position: fixed;
+    width: 25%;
+    height: 100%; 
+}
+div#derecho{
+    float: right;
+    width: 75%;
+    height: 75px;
+}
+div#final{
+    margin-top: 220px;
+    margin-left: 50%;
+    position: absolute;
+    border: 1px solid black;
+}
+
+
+
+
+
+
+
+
+
